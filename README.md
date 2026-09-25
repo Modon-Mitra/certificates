@@ -7,3 +7,4 @@
 ### UK Design Registration
 
 ![UK Design Registration](certificates/uk-design-registration.jpg)
+
